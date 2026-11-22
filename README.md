@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Cooper Wingate
+- GitHub username: CooperW-1
+- Project title: RaceTrack
+- Application purpose: The application allows users to compare sector times, lap times, sessions, and calculate their theoretical best lap. By organizing this information in one place, RaceTrack makes it easier for drivers to monitor their progress and become more consistent over time.
 
 ## How to Run the Application
 
